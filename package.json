@@ -1,6 +1,6 @@
 {
   "name": "@reggi/list-to-array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts a list of strings to source code array.",
   "repository": {
     "type": "git",
